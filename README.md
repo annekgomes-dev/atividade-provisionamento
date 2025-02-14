@@ -15,8 +15,8 @@ project/
 ## 2. Criar um arquivo `.env` para armazenar credenciais com segurança
 Crie um arquivo `.env` na raiz do projeto e adicione:
 ```
-POSTGRES_USER=annekgomes
-POSTGRES_PASSWORD=root1
+POSTGRES_USER= xxxx
+POSTGRES_PASSWORD= xxxx
 POSTGRES_DB=mydatabase
 ```
 
