@@ -1,4 +1,4 @@
-# Passo a passo para executar a aplicação com Docker no VS Code
+# Passo a passo para executar a aplicação com Docker
 
 ## 1. Estrutura do projeto
 
