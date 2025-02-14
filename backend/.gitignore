@@ -1,0 +1,5 @@
+# Evitar arquivos desnecessários no GitHub
+__pycache__/
+*.pyc
+.env
+pgdata/
